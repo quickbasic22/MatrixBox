@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixBox", "MatrixBox\MatrixBox.csproj", "{CFAE03C6-EC13-4415-95E6-330C053E38CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFAE03C6-EC13-4415-95E6-330C053E38CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFAE03C6-EC13-4415-95E6-330C053E38CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFAE03C6-EC13-4415-95E6-330C053E38CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFAE03C6-EC13-4415-95E6-330C053E38CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21BE0A4C-5D50-4E69-8B11-F5C158465821}
+	EndGlobalSection
+EndGlobal
